@@ -5,6 +5,7 @@
 To run the above code, you will need to open the terminal or command prompt in the directory where the code is saved and then type the following command:
 
 Where:
+
 `[MethodRequest]` is the HTTP request method, such as `GET` or `POST`.
 
 `[Objetive]` is the URL that you want to send the request to.
