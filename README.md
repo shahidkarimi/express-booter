@@ -1,3 +1,7 @@
+# Note
+
+This script is for educational purposes only.
+
 # How to run
 
 ```node express_booter.js [MethodRequest] [Objetive] [time] [rate]```
