@@ -24,3 +24,6 @@ For example, if the file name is script.js, the MethodRequest is `GET`, the Obje
 
 This will run the script for 60 seconds, sending 10 GET requests per second to the specified URL.
 
+# Note:
+
+The proxy.txt must contain valid list of proxies.
